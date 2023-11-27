@@ -10,7 +10,7 @@
 <h3 align="left">An undergraduate Computer Science student, minors in Data Science and Mathematics, at California State Universiy, Northridge</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/jVqYgn09W8FHEf0BBS/giphy.gif">
 
-- 💬 Visit my personal website **[https://jittapatrick.notion.site/Jittapatana-Prayoonpruk-7f82c66a4c514ea5bc9b20f28f742372?pvs=4](https://rb.gy/m2jzni)**
+- 💬 Visit my personal website **https://rb.gy/m2jzni**
 
 - 📫 How to reach me **jitta.patrick@gmail.com**
 
