@@ -28,3 +28,5 @@
 
 ![](https://leetcard.jacoblin.cool/patrick2544?font=Bowlby_One_SC)
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Patrick2544&theme=tokyonight" alt="LeetCode Badges"/>
+
